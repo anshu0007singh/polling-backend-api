@@ -16,10 +16,6 @@ This is a backend project intended to used at platforms where polling/voting typ
 - Add Votes to the options: voteforme-api.herokuapp.com/option/:id/delete
 - Delete Options: voteforme-api.herokuapp.com/option/:id/add_vote
 
-# Important Link:
-- Video Explaination: https://youtu.be/dccE9hmCcLY
-- Hosting Link: https://voteforme-api.herokuapp.com/
-
 # Tech Stack:
 - NodeJS
 - MongoDB
